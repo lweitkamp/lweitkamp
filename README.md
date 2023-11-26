@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently a deep learning engineer for Thirona, a medical imaging startup. I'm also:
+
+- Working on (a guide)[https://lweitkamp.github.io/triton_exercises/] to learn OpenAI's Triton with guided exercises.
+- Currently learning rust 🦀
+
+
 <!--
 **lweitkamp/lweitkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
