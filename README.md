@@ -2,7 +2,7 @@
 
 I'm currently a deep learning engineer for Thirona, a medical imaging startup. I'm also:
 
-- Working on (a guide)[https://lweitkamp.github.io/triton_exercises/] to learn OpenAI's Triton with guided exercises.
+- Working on [a guide](https://lweitkamp.github.io/triton_exercises/) to learn OpenAI's Triton with guided exercises.
 - Currently learning rust 🦀
 
 
