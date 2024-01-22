@@ -2,7 +2,7 @@
 
 I'm currently a deep learning engineer for Thirona, a medical imaging startup. I'm also:
 
-- Working on a distributed transformer learning system in NumPy using MPI - the megatron-ML implementation is almost done.
+- [Working on](https://github.com/lweitkamp/transformer_parallelisms) a distributed transformer learning system in NumPy using MPI - the megatron-ML implementation is almost done.
 - Currently learning rust 🦀
 
 
